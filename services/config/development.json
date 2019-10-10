@@ -1,0 +1,12 @@
+{
+  "port": 9999,
+  "env": "development",
+  "baseApi": "api/v1",
+  "database": {
+    "DATABASE": "homepay",
+    "USERNAME": "root",
+    "PASSWORD": "lgx112535",
+    "PORT": "3306",
+    "HOST": "localhost"
+  }
+}

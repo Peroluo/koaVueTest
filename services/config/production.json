@@ -1,0 +1,12 @@
+{
+  "port": 9999,
+  "env": "production",
+  "baseApi": "api/v1",
+  "database": {
+    "DATABASE": "homepay",
+    "USERNAME": "root",
+    "PASSWORD": "ectripaes2013",
+    "PORT": "3306",
+    "HOST": "202.96.155.121"
+  }
+}
