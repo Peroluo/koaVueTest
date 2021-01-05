@@ -17,7 +17,7 @@
     "docker:push": "docker push hub.docker.ipin.com/front/app:$npm_package_version"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "cross-env": "^5.2.0",
     "glob": "^7.1.4",
